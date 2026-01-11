@@ -1,1 +1,10 @@
-Untitled,jei_fon,
+Tupperbox Icon Designer,jei_fon,see inside for the full experience
+
+press ` to get the color picker
+
+1 and 2 = set first and second color
+hold shift with either to insert hex instead
+
+3 = swap colors
+
+G = toggle pfp mode
