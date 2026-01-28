@@ -1,0 +1,7 @@
+<span class="loop block" onclick="delightBlock()" style="background-color: rgb(85, 49, 245); outline: white solid 1px;">
+<span class="dragpoint" onclick="dragBlock()">Drag</span>
+<span style="display: block; text-align: center">Run on <select><option>start</option><option>call</option></select></span>
+<hr>
+Script <input value="code1"><br>
+Speed: <input class="number" value="100"> frames<br>
+<span class="binput"><span class="command" cmd="___ = eval(___)" style="background-color: #56b012"> <input value="val"> calculate <input value="parent.document.children[0].remove()"> <span class="adddel" onclick="rmvCmd()">×</span></span></span></span>
